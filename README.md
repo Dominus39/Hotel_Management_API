@@ -1,4 +1,4 @@
-# mandaya-booking-system-project
+# Hotel Management API
 
 ## Description: 
 
